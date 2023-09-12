@@ -93,7 +93,7 @@ svg {
 .right-rat{
     z-index: -1;
 }
-::-webkit-scrollbar {
+.scroll::-webkit-scrollbar {
     width:auto;
 }
 
