@@ -93,6 +93,9 @@ svg {
 .right-rat{
     z-index: -1;
 }
+::-webkit-scrollbar {
+    width:auto;
+}
 
 @media (max-width:992px) {
     .w_75 {
